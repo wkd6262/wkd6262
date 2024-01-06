@@ -27,3 +27,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h4>📚Once I've Used📚</h4>
+  <br>
+<div align="center">
+<img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-squar&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-squar&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-FFB13B.svg?&style=flat-squar&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=flat-squar&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-squar&logo=react&logoColor=white"/>
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=flat-squar&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
+</div>
+</div>
+<br>
+<div align="center">
+<h4>📎Tools📎</h4>
+  <br>
+<div align="center">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-squar&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717.svg?&style=flat-squar&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-44C1C5.svg?&style=flat-squar&logo=notion&logoColor=black"/>
+  <br>
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-squar&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=flat-squar&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
+</div>
+</div>
+
+<br>
