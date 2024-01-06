@@ -8,7 +8,7 @@
 
 <h4 align="center"> My Git Stats </h4>
  <a href="https://github.com/wkd6262" align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkd6262&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=vue" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wkd6262&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=holi" />
  </a>
 
 </div>
