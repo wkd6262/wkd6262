@@ -1,6 +1,7 @@
 ![099b2bf09](https://github.com/wkd6262/wkd6262/assets/142865132/894e4b9b-cba5-4c6d-b232-f853396afdf5)
 <br>
 <div align="center">
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Fall&edge_flat=false)](https://hits.seeyoufarm.com)
 <h4 align="center"> My Most Used Languages </h4>
  <a href="https://github.com/wkd6262" align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkd6262&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=Objective%2DC" />
