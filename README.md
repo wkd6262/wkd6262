@@ -1,5 +1,5 @@
 ![099b2bf09](https://github.com/wkd6262/wkd6262/assets/142865132/894e4b9b-cba5-4c6d-b232-f853396afdf5)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwkd6262&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today%2Fall&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 <div align="center">
 
