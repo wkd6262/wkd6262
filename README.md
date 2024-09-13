@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![wkd6262 code rank!](https://github-readme-stats.vercel.app/api?username=wkd6262&count_private=true)
 
 <br>
