@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ github-readme-stats.vercel.app/api?username=wkd6262&show_icons=true
 
 <br>
