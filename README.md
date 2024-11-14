@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkd6262&layout=compact&theme=dracula)
 <br>
